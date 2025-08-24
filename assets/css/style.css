@@ -45,6 +45,60 @@ header nav ul li {
   margin-left: 25px;
 }
 
+#dragons {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #404040;
+  color: #ffffff;
+}
+
+#dragons img {
+  max-height: 200px;
+}
+
+#dragons h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+#humans {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #404040;
+  color: #ffffff;
+}
+
+#humans img {
+  max-height: 200px;
+}
+
+#humans h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+#locations {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #404040;
+  color: #ffffff;
+}
+
+#locations img {
+  max-height: 200px;
+}
+
+#locations h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
 a {
   color: #ffffff;
   text-decoration: none;
@@ -138,59 +192,7 @@ aside {
   max-width: 150px;
 }
 
-#dragons {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #404040;
-  color: #ffffff;
-}
 
-#dragons img {
-  max-height: 200px;
-}
-
-#dragons h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-#humans {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #404040;
-  color: #ffffff;
-}
-
-#humans img {
-  max-height: 200px;
-}
-
-#humans h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-#locations {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #404040;
-  color: #ffffff;
-}
-
-#locations img {
-  max-height: 200px;
-}
-
-#locations h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
 
 footer {
   padding: 30px;
