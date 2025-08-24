@@ -95,27 +95,7 @@ aside {
   color: #ffffff;
 }
 
-.item-frostbite-chest {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.item-mystic-chest {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
 .item-golden-sun h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.item-frostbite-chest h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.item-mystic-chest h3 {
   margin-bottom: 10px;
   text-align: center;
 }
@@ -126,10 +106,30 @@ aside {
   max-width: 150px;
 }
 
+.item-frostbite-chest {
+  margin-bottom: 32px;
+  color: #ffffff;
+}
+
+.item-frostbite-chest h3 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
 .item-frostbite-chest img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
+}
+
+.item-mystic-chest {
+  margin-bottom: 32px;
+  color: #ffffff;
+}
+
+.item-mystic-chest h3 {
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 .item-mystic-chest img {
@@ -147,6 +147,15 @@ aside {
   color: #ffffff;
 }
 
+#dragons img {
+  max-height: 200px;
+}
+
+#dragons h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
 #humans {
   margin-bottom: 20px;
   padding: 50px;
@@ -154,6 +163,15 @@ aside {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #404040;
   color: #ffffff;
+}
+
+#humans img {
+  max-height: 200px;
+}
+
+#humans h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 
 #locations {
@@ -165,26 +183,8 @@ aside {
   color: #ffffff;
 }
 
-#dragons img {
-  max-height: 200px;
-}
-
-#humans img {
-  max-height: 200px;
-}
-
 #locations img {
   max-height: 200px;
-}
-
-#dragons h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-#humans h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 #locations h2 {
